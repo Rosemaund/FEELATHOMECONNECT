@@ -1,1 +1,67 @@
-Readme
+# FEEL AT HOME CONNECT
+
+### One Connection Can Change Everything.
+
+**A Safe Place. A New Beginning.**
+
+FEEL AT HOME CONNECT is a mobile-first resource navigation platform designed to help individuals and families experiencing crisis, instability, or major life transitions find support and take their next steps toward stability.
+
+## Our Mission
+
+To connect people with resources, support, and opportunities that can help them move toward safety, stability, growth, and independence.
+
+## What the App Will Help Users Find
+
+- Housing and emergency shelter
+
+- Domestic violence and safety resources
+
+- Food assistance and basic needs
+
+- Employment and job support
+
+- Transportation
+
+- Childcare and family services
+
+- Legal assistance
+
+- Healthcare and mental wellness
+
+- Financial assistance
+
+- Education and training
+
+## Our Signature Feature: Start Over Plan
+
+Users will be able to create a personal plan, organize goals, save helpful resources, and track progress at their own pace.
+
+## Core User Journey
+
+**Find → Connect → Plan → Progress**
+
+## Initial Pilot Location
+
+Collin County, Texas, with an initial focus on Princeton, McKinney, Plano, Allen, Frisco, and Melissa.
+
+## Technology Direction
+
+- Mobile application: React Native and Expo
+
+- Admin and provider portals: Next.js
+
+- Database: PostgreSQL
+
+- Backend: Secure API layer
+
+## Safety and Privacy
+
+FEEL AT HOME CONNECT is being designed with user privacy and safety in mind. Sensitive information will be minimized, and domestic violence safety features will require careful review by qualified advocates and security professionals.
+
+The app will not promise that a resource has space available or that a person automatically qualifies for a service.
+
+## Project Vision
+
+Our vision is to make finding help easier, more organized, and less overwhelming—one connection at a time.
+
+**Website branding:** FEELATHOME.LIFE
