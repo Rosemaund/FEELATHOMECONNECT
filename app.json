@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "FEEL AT HOME CONNECT",
+    "slug": "feel-at-home-connect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#4B247C"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#4B247C"
+      }
+    }
+  }
+}
